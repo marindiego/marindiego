@@ -25,14 +25,8 @@ Here are some of the projects I’ve worked on:
 ### [EduFee](#)
 **Description**: The purpose of the project is to develop a payment gateway that will allow students to pay fees and tuition in a secure and efficient manner, and institutions to manage and visualize these payments in an organized way.
 - **Tech Stack**: React, Node.js, PostgreSQL
-- **Live Demo**: [Link to live demo](#)
-- **GitHub Repo**: [Link to repo](#)
-
-### [Another Project](#)
-**Description**: A brief description of another project, including its purpose, technologies used, and key features.
-- **Tech Stack**: Next.js, Express, SQL
-- **Live Demo**: [Link to live demo](#)
-- **GitHub Repo**: [Link to repo](#)
+- **Live Demo**: [https://edufee.vercel.app](#)
+- **GitHub Repo**: [https://github.com/MCEmilyMorales/Edufee-](#)
 
 Feel free to explore my repositories to see more of my work!
 
