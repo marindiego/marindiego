@@ -35,6 +35,7 @@ Feel free to explore my repositories to see more of my work!
 - **LinkedIn**: [linkedin.com/in/marindiego](https://www.linkedin.com/in/marindiego)
 - **Instagram**: [@marindiego_56](https://www.instagram.com/marindiego_56/)
 - **GitHub**: [github.com/marindiego](https://github.com/marindiego)
+- **Email**: [paolo05061@gmail.com])
 
 ## 🎯 Goals & Aspirations
 
