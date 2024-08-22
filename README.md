@@ -24,7 +24,7 @@ Here are some of the projects I’ve worked on:
 
 ### [EduFee](#)
 **Description**: The purpose of the project is to develop a payment gateway that will allow students to pay fees and tuition in a secure and efficient manner, and institutions to manage and visualize these payments in an organized way.
-- **Tech Stack**: React, Node.js, PostgreSQL
+- **Tech Stack**: React, Next.js, Tailwind
 - **Live Demo**: [https://edufee.vercel.app](#)
 - **GitHub Repo**: [https://github.com/MCEmilyMorales/Edufee-](#)
 
